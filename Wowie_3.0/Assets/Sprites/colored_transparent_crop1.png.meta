@@ -1,0 +1,2948 @@
+fileFormatVersion: 2
+guid: 3ede9622765752949acf899bdba20e22
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 111181715494108100
+    second: colored_transparent_crop1_0
+  - first:
+      213: 6717037514257376212
+    second: colored_transparent_crop1_1
+  - first:
+      213: 6583577685022163836
+    second: colored_transparent_crop1_2
+  - first:
+      213: -5515853814115729467
+    second: colored_transparent_crop1_3
+  - first:
+      213: 6596493922088414267
+    second: colored_transparent_crop1_4
+  - first:
+      213: -3982416878073811210
+    second: colored_transparent_crop1_5
+  - first:
+      213: -5220540101211619165
+    second: colored_transparent_crop1_6
+  - first:
+      213: 7160658687975550864
+    second: colored_transparent_crop1_7
+  - first:
+      213: 4679656903172184220
+    second: colored_transparent_crop1_8
+  - first:
+      213: 4691385450151843529
+    second: colored_transparent_crop1_9
+  - first:
+      213: 3870602541603092807
+    second: colored_transparent_crop1_10
+  - first:
+      213: -6715213540183275932
+    second: colored_transparent_crop1_11
+  - first:
+      213: 7947520461260277015
+    second: colored_transparent_crop1_12
+  - first:
+      213: 4858656726669987645
+    second: colored_transparent_crop1_13
+  - first:
+      213: 1581458709177868700
+    second: colored_transparent_crop1_14
+  - first:
+      213: 2241074917749116605
+    second: colored_transparent_crop1_15
+  - first:
+      213: -2170058785727841961
+    second: colored_transparent_crop1_16
+  - first:
+      213: 7795369594714019684
+    second: colored_transparent_crop1_17
+  - first:
+      213: -4364831734724252642
+    second: colored_transparent_crop1_18
+  - first:
+      213: 5167159969979485873
+    second: colored_transparent_crop1_19
+  - first:
+      213: 313788203003688710
+    second: colored_transparent_crop1_20
+  - first:
+      213: -5414148085661510497
+    second: colored_transparent_crop1_21
+  - first:
+      213: -4904451930635026610
+    second: colored_transparent_crop1_22
+  - first:
+      213: 4796136293987595436
+    second: colored_transparent_crop1_23
+  - first:
+      213: 8125540166527336673
+    second: colored_transparent_crop1_24
+  - first:
+      213: -6061329966792257640
+    second: colored_transparent_crop1_25
+  - first:
+      213: 6968601863284993065
+    second: colored_transparent_crop1_26
+  - first:
+      213: -4972133342203319360
+    second: colored_transparent_crop1_27
+  - first:
+      213: -7875893099573746063
+    second: colored_transparent_crop1_28
+  - first:
+      213: 6190347683451075590
+    second: colored_transparent_crop1_29
+  - first:
+      213: -8249464255745277560
+    second: colored_transparent_crop1_30
+  - first:
+      213: 271851987030237616
+    second: colored_transparent_crop1_31
+  - first:
+      213: -7780516523609128448
+    second: colored_transparent_crop1_32
+  - first:
+      213: -1874067760871380575
+    second: colored_transparent_crop1_33
+  - first:
+      213: -8978876446257380509
+    second: colored_transparent_crop1_34
+  - first:
+      213: -6930269096277052943
+    second: colored_transparent_crop1_35
+  - first:
+      213: 5881627847322782877
+    second: colored_transparent_crop1_36
+  - first:
+      213: 444118477444075282
+    second: colored_transparent_crop1_37
+  - first:
+      213: -2316683238561644866
+    second: colored_transparent_crop1_38
+  - first:
+      213: 5207233043291744653
+    second: colored_transparent_crop1_39
+  - first:
+      213: -5267354990740612326
+    second: colored_transparent_crop1_40
+  - first:
+      213: -2755791466645707805
+    second: colored_transparent_crop1_41
+  - first:
+      213: 2118866570719405334
+    second: colored_transparent_crop1_42
+  - first:
+      213: 5115130633496840047
+    second: colored_transparent_crop1_43
+  - first:
+      213: -4404667929189536313
+    second: colored_transparent_crop1_44
+  - first:
+      213: -3571744318305434972
+    second: colored_transparent_crop1_45
+  - first:
+      213: -8206022561188008606
+    second: colored_transparent_crop1_46
+  - first:
+      213: 3545216025576398389
+    second: colored_transparent_crop1_47
+  - first:
+      213: -7340579437176237434
+    second: colored_transparent_crop1_48
+  - first:
+      213: -5594386809894145499
+    second: colored_transparent_crop1_49
+  - first:
+      213: -8483049270986546303
+    second: colored_transparent_crop1_50
+  - first:
+      213: 5644973579306701683
+    second: colored_transparent_crop1_51
+  - first:
+      213: 1130750569987060618
+    second: colored_transparent_crop1_52
+  - first:
+      213: 7361410332409323033
+    second: colored_transparent_crop1_53
+  - first:
+      213: 8404529145169416313
+    second: colored_transparent_crop1_54
+  - first:
+      213: -8788043402272188516
+    second: colored_transparent_crop1_55
+  - first:
+      213: -8525521378377825699
+    second: colored_transparent_crop1_56
+  - first:
+      213: -6472780424202111571
+    second: colored_transparent_crop1_57
+  - first:
+      213: 6643145362209355617
+    second: colored_transparent_crop1_58
+  - first:
+      213: -3744465266299038200
+    second: colored_transparent_crop1_59
+  - first:
+      213: -4198061234294939754
+    second: colored_transparent_crop1_60
+  - first:
+      213: -4676506774710908928
+    second: colored_transparent_crop1_61
+  - first:
+      213: -5596587372047795715
+    second: colored_transparent_crop1_62
+  - first:
+      213: -5467022833117293930
+    second: colored_transparent_crop1_63
+  - first:
+      213: -1503924862810372830
+    second: colored_transparent_crop1_64
+  - first:
+      213: -4429254350053839748
+    second: colored_transparent_crop1_65
+  - first:
+      213: 4255459553186663286
+    second: colored_transparent_crop1_66
+  - first:
+      213: -3836534070612911140
+    second: colored_transparent_crop1_67
+  - first:
+      213: 3437515368347307478
+    second: colored_transparent_crop1_68
+  - first:
+      213: -8544166644320163495
+    second: colored_transparent_crop1_69
+  - first:
+      213: 8510291887722247214
+    second: colored_transparent_crop1_70
+  - first:
+      213: -7207135024849587129
+    second: colored_transparent_crop1_71
+  - first:
+      213: -8590221703300032074
+    second: colored_transparent_crop1_72
+  - first:
+      213: -128292769004922166
+    second: colored_transparent_crop1_73
+  - first:
+      213: 7152857682324309054
+    second: colored_transparent_crop1_74
+  - first:
+      213: -3002777886281680745
+    second: colored_transparent_crop1_75
+  - first:
+      213: 8966779933412371701
+    second: colored_transparent_crop1_76
+  - first:
+      213: -1870403181549004856
+    second: colored_transparent_crop1_77
+  - first:
+      213: 1074175849575225746
+    second: colored_transparent_crop1_78
+  - first:
+      213: -115302454582629942
+    second: colored_transparent_crop1_79
+  - first:
+      213: 1755729327288281276
+    second: colored_transparent_crop1_80
+  - first:
+      213: 5920293281723103507
+    second: colored_transparent_crop1_81
+  - first:
+      213: 2029471880675850970
+    second: colored_transparent_crop1_82
+  - first:
+      213: -7498462474214891349
+    second: colored_transparent_crop1_83
+  - first:
+      213: 4032153549741287744
+    second: colored_transparent_crop1_84
+  - first:
+      213: 4679958267394413732
+    second: colored_transparent_crop1_85
+  - first:
+      213: 53952942682491765
+    second: colored_transparent_crop1_86
+  - first:
+      213: -9035979573366483227
+    second: colored_transparent_crop1_87
+  - first:
+      213: -1885354126866965320
+    second: colored_transparent_crop1_88
+  - first:
+      213: -6645228151957618672
+    second: colored_transparent_crop1_89
+  - first:
+      213: -2574997983637862627
+    second: colored_transparent_crop1_90
+  - first:
+      213: 187735070026128368
+    second: colored_transparent_crop1_91
+  - first:
+      213: -2934864522337674132
+    second: colored_transparent_crop1_92
+  - first:
+      213: -5034970301641710534
+    second: colored_transparent_crop1_93
+  - first:
+      213: 9034238937876602977
+    second: colored_transparent_crop1_94
+  - first:
+      213: 7367515968568517928
+    second: colored_transparent_crop1_95
+  - first:
+      213: -3799839641224088186
+    second: colored_transparent_crop1_96
+  - first:
+      213: 5741590263402051975
+    second: colored_transparent_crop1_97
+  - first:
+      213: 2563018472826370992
+    second: colored_transparent_crop1_98
+  - first:
+      213: 8693175966699602496
+    second: colored_transparent_crop1_99
+  - first:
+      213: -7858196729690312666
+    second: colored_transparent_crop1_100
+  - first:
+      213: 1786975322105398054
+    second: colored_transparent_crop1_101
+  - first:
+      213: -1411201104165844389
+    second: colored_transparent_crop1_102
+  - first:
+      213: -4131189367816149342
+    second: colored_transparent_crop1_103
+  - first:
+      213: -7378673680788809649
+    second: colored_transparent_crop1_0
+  - first:
+      213: -4700477942131839794
+    second: colored_transparent_crop1_1
+  - first:
+      213: 8753345184124495899
+    second: colored_transparent_crop1_2
+  - first:
+      213: 1437964740910422963
+    second: colored_transparent_crop1_3
+  - first:
+      213: 8843549379297192018
+    second: colored_transparent_crop1_4
+  - first:
+      213: 7371144641749695519
+    second: colored_transparent_crop1_5
+  - first:
+      213: 8676664337278776766
+    second: colored_transparent_crop1_6
+  - first:
+      213: 142928605120594394
+    second: colored_transparent_crop1_7
+  - first:
+      213: -7063576438995712929
+    second: colored_transparent_crop1_8
+  - first:
+      213: 5670248856644337716
+    second: colored_transparent_crop1_9
+  - first:
+      213: 4951305607704910358
+    second: colored_transparent_crop1_10
+  - first:
+      213: -285470517897746082
+    second: colored_transparent_crop1_11
+  - first:
+      213: 7075847511783155546
+    second: colored_transparent_crop1_12
+  - first:
+      213: -441074463226402675
+    second: colored_transparent_crop1_13
+  - first:
+      213: -2291692555518197037
+    second: colored_transparent_crop1_14
+  - first:
+      213: 2101877121846164894
+    second: colored_transparent_crop1_15
+  - first:
+      213: -7929776562964560483
+    second: colored_transparent_crop1_16
+  - first:
+      213: 890090412766076628
+    second: colored_transparent_crop1_17
+  - first:
+      213: -1845648334589704753
+    second: colored_transparent_crop1_18
+  - first:
+      213: 1757585699052272182
+    second: colored_transparent_crop1_19
+  - first:
+      213: -531650505444278512
+    second: colored_transparent_crop1_20
+  - first:
+      213: -3262779499258853131
+    second: colored_transparent_crop1_21
+  - first:
+      213: -8760433999194376383
+    second: colored_transparent_crop1_22
+  - first:
+      213: 3950871785834934173
+    second: colored_transparent_crop1_23
+  - first:
+      213: -6706144195955171309
+    second: colored_transparent_crop1_24
+  - first:
+      213: 5107201033100902044
+    second: colored_transparent_crop1_25
+  - first:
+      213: 9080874466328785403
+    second: colored_transparent_crop1_26
+  - first:
+      213: -4630021592826071366
+    second: colored_transparent_crop1_27
+  - first:
+      213: -5693192298677278114
+    second: colored_transparent_crop1_28
+  - first:
+      213: -4156892844306212338
+    second: colored_transparent_crop1_29
+  - first:
+      213: -4486434228620931931
+    second: colored_transparent_crop1_30
+  - first:
+      213: 1836359278656375467
+    second: colored_transparent_crop1_31
+  - first:
+      213: 4957854786438346291
+    second: colored_transparent_crop1_32
+  - first:
+      213: 3884363411789755617
+    second: colored_transparent_crop1_33
+  - first:
+      213: 5678366505038161923
+    second: colored_transparent_crop1_34
+  - first:
+      213: -92084246596676133
+    second: colored_transparent_crop1_35
+  - first:
+      213: -8236993833295491899
+    second: colored_transparent_crop1_36
+  - first:
+      213: 8702743127051168620
+    second: colored_transparent_crop1_37
+  - first:
+      213: 5703070759186078892
+    second: colored_transparent_crop1_38
+  - first:
+      213: 14105173897143157
+    second: colored_transparent_crop1_39
+  - first:
+      213: 6585046365926072684
+    second: colored_transparent_crop1_40
+  - first:
+      213: -1589462709719917400
+    second: colored_transparent_crop1_41
+  - first:
+      213: 32462951694675976
+    second: colored_transparent_crop1_42
+  - first:
+      213: 7997610660381457722
+    second: colored_transparent_crop1_43
+  - first:
+      213: -7570308080920478844
+    second: colored_transparent_crop1_44
+  - first:
+      213: 4054736609576575588
+    second: colored_transparent_crop1_45
+  - first:
+      213: -2244466775781476577
+    second: colored_transparent_crop1_46
+  - first:
+      213: 462360108964327972
+    second: colored_transparent_crop1_47
+  - first:
+      213: 1829314168346947352
+    second: colored_transparent_crop1_48
+  - first:
+      213: -7216315137353901959
+    second: colored_transparent_crop1_49
+  - first:
+      213: 5884692890880292043
+    second: colored_transparent_crop1_50
+  - first:
+      213: -441651533013652955
+    second: colored_transparent_crop1_51
+  - first:
+      213: -4406999052678098817
+    second: colored_transparent_crop1_52
+  - first:
+      213: 5463434512158689239
+    second: colored_transparent_crop1_53
+  - first:
+      213: -2822781998941855809
+    second: colored_transparent_crop1_54
+  - first:
+      213: 8366315840378822818
+    second: colored_transparent_crop1_55
+  - first:
+      213: 5167567946336383800
+    second: colored_transparent_crop1_56
+  - first:
+      213: -1629588753227933535
+    second: colored_transparent_crop1_57
+  - first:
+      213: 8378764953203927116
+    second: colored_transparent_crop1_58
+  - first:
+      213: 326423068775776497
+    second: colored_transparent_crop1_59
+  - first:
+      213: 2019770388346219177
+    second: colored_transparent_crop1_60
+  - first:
+      213: -6709467572150708191
+    second: colored_transparent_crop1_61
+  - first:
+      213: -5726782145951522448
+    second: colored_transparent_crop1_62
+  - first:
+      213: -3763305458696963099
+    second: colored_transparent_crop1_63
+  - first:
+      213: -1857563861763511121
+    second: colored_transparent_crop1_64
+  - first:
+      213: 7661858664564463306
+    second: colored_transparent_crop1_65
+  - first:
+      213: 6273307122777005953
+    second: colored_transparent_crop1_66
+  - first:
+      213: -2015345914518124500
+    second: colored_transparent_crop1_67
+  - first:
+      213: 8407699427872946649
+    second: colored_transparent_crop1_68
+  - first:
+      213: 1169653416125221074
+    second: colored_transparent_crop1_69
+  - first:
+      213: 2665760374808702219
+    second: colored_transparent_crop1_70
+  - first:
+      213: 4819155291961348285
+    second: colored_transparent_crop1_71
+  - first:
+      213: -53008992686747950
+    second: colored_transparent_crop1_72
+  - first:
+      213: -5196241266363071345
+    second: colored_transparent_crop1_73
+  - first:
+      213: 8013727020908912072
+    second: colored_transparent_crop1_74
+  - first:
+      213: 6115637008483556502
+    second: colored_transparent_crop1_75
+  - first:
+      213: 7153267086510575232
+    second: colored_transparent_crop1_76
+  - first:
+      213: 6712604570345876405
+    second: colored_transparent_crop1_77
+  - first:
+      213: 4301276687167127073
+    second: colored_transparent_crop1_78
+  - first:
+      213: -4552924402902995502
+    second: colored_transparent_crop1_79
+  - first:
+      213: 5918068401410140285
+    second: colored_transparent_crop1_80
+  - first:
+      213: 3843416546693963946
+    second: colored_transparent_crop1_81
+  - first:
+      213: 6645993509553181520
+    second: colored_transparent_crop1_82
+  - first:
+      213: 6211935082623107152
+    second: colored_transparent_crop1_83
+  - first:
+      213: 7921411155545367975
+    second: colored_transparent_crop1_84
+  - first:
+      213: 5310138289519821879
+    second: colored_transparent_crop1_85
+  - first:
+      213: 7446454374014900188
+    second: colored_transparent_crop1_86
+  - first:
+      213: 7926468730867747764
+    second: colored_transparent_crop1_87
+  - first:
+      213: -8054536583610327007
+    second: colored_transparent_crop1_88
+  - first:
+      213: 3808005693384281554
+    second: colored_transparent_crop1_89
+  - first:
+      213: -7493530168885605153
+    second: colored_transparent_crop1_90
+  - first:
+      213: 998246129340097486
+    second: colored_transparent_crop1_91
+  - first:
+      213: 1663808377204259930
+    second: colored_transparent_crop1_92
+  - first:
+      213: 7436824227360760243
+    second: colored_transparent_crop1_93
+  - first:
+      213: 714561923753199739
+    second: colored_transparent_crop1_94
+  - first:
+      213: 535591309034478436
+    second: colored_transparent_crop1_95
+  - first:
+      213: 2438620263209423397
+    second: colored_transparent_crop1_96
+  - first:
+      213: -3105266131151528984
+    second: colored_transparent_crop1_97
+  - first:
+      213: 3827999614630382663
+    second: colored_transparent_crop1_98
+  - first:
+      213: -4416901203223201957
+    second: colored_transparent_crop1_99
+  - first:
+      213: 5335022639382391610
+    second: colored_transparent_crop1_100
+  - first:
+      213: -3119762989707181349
+    second: colored_transparent_crop1_101
+  - first:
+      213: -4259179079502458229
+    second: colored_transparent_crop1_102
+  - first:
+      213: 1172201988241849843
+    second: colored_transparent_crop1_103
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: colored_transparent_crop1_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f481f07916fa99990800000000000000
+      internalID: -7378673680788809649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc2ca0473c84ceb0800000000000000
+      internalID: -4700477942131839794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18ed1851112a7970800000000000000
+      internalID: 8753345184124495899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb908d205da4f310800000000000000
+      internalID: 1437964740910422963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258a2aa2e499aba70800000000000000
+      internalID: 8843549379297192018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cb3876ff09b4660800000000000000
+      internalID: 7371144641749695519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb53dca6e34b96870800000000000000
+      internalID: 8676664337278776766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad184702fc8cbf100800000000000000
+      internalID: 142928605120594394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_8
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5487d537a229fd90800000000000000
+      internalID: -7063576438995712929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430c958fa45c0be40800000000000000
+      internalID: 5670248856644337716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_10
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a96a1973296b440800000000000000
+      internalID: 4951305607704910358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_11
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59abd2931ec90cf0800000000000000
+      internalID: -285470517897746082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_12
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57aaa092d5723260800000000000000
+      internalID: 7075847511783155546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88e4e3dc1df0e9f0800000000000000
+      internalID: -441074463226402675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_14
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d24eed33c54230e0800000000000000
+      internalID: -2291692555518197037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_15
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d39292b1e5b2d10800000000000000
+      internalID: 2101877121846164894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_16
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d958740da36c3f190800000000000000
+      internalID: -7929776562964560483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_17
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de17e6b38c3a5c00800000000000000
+      internalID: 890090412766076628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_18
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc54d7c4e90f266e0800000000000000
+      internalID: -1845648334589704753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_19
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a315691e2346810800000000000000
+      internalID: 1757585699052272182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f365e9ea23f98f0800000000000000
+      internalID: -531650505444278512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_21
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8cf36155748b2d0800000000000000
+      internalID: -3262779499258853131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_22
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147b3c741bfac6680800000000000000
+      internalID: -8760433999194376383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_23
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fedc3e4f054d630800000000000000
+      internalID: 3950871785834934173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_24
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3106b8b626dfee2a0800000000000000
+      internalID: -6706144195955171309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_25
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ebc7ec74c60e640800000000000000
+      internalID: 5107201033100902044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1317fe63fb50e70800000000000000
+      internalID: 9080874466328785403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_27
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6b63964ebdebfb0800000000000000
+      internalID: -4630021592826071366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_28
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ae957a4c7bdf0b0800000000000000
+      internalID: -5693192298677278114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_29
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ad3c57bffbf46c0800000000000000
+      internalID: -4156892844306212338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_30
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac45e6d6dbfcb1c0800000000000000
+      internalID: -4486434228620931931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_31
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa4e44d80f0c7910800000000000000
+      internalID: 1836359278656375467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_32
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336b0a119a6ddc440800000000000000
+      internalID: 4957854786438346291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_33
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4b04a51f708e530800000000000000
+      internalID: 3884363411789755617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_34
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308a645404c9dce40800000000000000
+      internalID: 5678366505038161923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_35
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd512389dd9d8bef0800000000000000
+      internalID: -92084246596676133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_36
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ccc65500c150bd80800000000000000
+      internalID: -8236993833295491899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_37
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b6b53d3ca56c870800000000000000
+      internalID: 8702743127051168620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_38
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac143aa3a0652f40800000000000000
+      internalID: 5703070759186078892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_39
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57362a7b49c123000800000000000000
+      internalID: 14105173897143157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_40
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61208ed7c8c26b50800000000000000
+      internalID: 6585046365926072684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_41
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac1a6b361811f9e0800000000000000
+      internalID: -1589462709719917400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_42
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8003f10f1e4537000800000000000000
+      internalID: 32462951694675976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_43
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3df9efb5883dfe60800000000000000
+      internalID: 7997610660381457722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_44
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b377cd8ecd0f690800000000000000
+      internalID: -7570308080920478844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_45
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4626597a671554830800000000000000
+      internalID: 4054736609576575588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_46
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17f06feb5d0ad0e0800000000000000
+      internalID: -2244466775781476577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_47
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4223125c112aa6600800000000000000
+      internalID: 462360108964327972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_48
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fa8e24b87036910800000000000000
+      internalID: 1829314168346947352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_49
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9781fb2cd9f7adb90800000000000000
+      internalID: -7216315137353901959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_50
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4bf2d7101aaa150800000000000000
+      internalID: 5884692890880292043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_51
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ae63c4540fed9f0800000000000000
+      internalID: -441651533013652955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7093abf5b137d2c0800000000000000
+      internalID: -4406999052678098817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_53
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d704d60eb402db40800000000000000
+      internalID: 5463434512158689239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_54
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf14ba4ab673d8d0800000000000000
+      internalID: -2822781998941855809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_55
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0e0802eef1b1470800000000000000
+      internalID: 8366315840378822818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_56
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83333121ba3e6b740800000000000000
+      internalID: 5167567946336383800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_57
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a890e1b9a98269e0800000000000000
+      internalID: -1629588753227933535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_58
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c486634155a574470800000000000000
+      internalID: 8378764953203927116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_59
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f08fd43d00b78400800000000000000
+      internalID: 326423068775776497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_60
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aaaa3d877aa70c10800000000000000
+      internalID: 2019770388346219177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_61
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12854f99ace23e2a0800000000000000
+      internalID: -6709467572150708191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_62
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071a284eaf16680b0800000000000000
+      internalID: -5726782145951522448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_63
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb3419cf9d06cbc0800000000000000
+      internalID: -3763305458696963099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_64
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facabff628b9836e0800000000000000
+      internalID: -1857563861763511121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_65
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac61d947cd3645a60800000000000000
+      internalID: 7661858664564463306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_66
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f1d0c37934f0750800000000000000
+      internalID: 6273307122777005953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_67
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28cc99819d0804e0800000000000000
+      internalID: -2015345914518124500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_68
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d93f9075162ea470800000000000000
+      internalID: 8407699427872946649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_69
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8477ab5917b3010800000000000000
+      internalID: 1169653416125221074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_70
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0de8c4efeeaef420800000000000000
+      internalID: 2665760374808702219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_71
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0dcce743411e240800000000000000
+      internalID: 4819155291961348285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_72
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de410d1a9ca34ff0800000000000000
+      internalID: -53008992686747950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_73
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84043f591e33e7b0800000000000000
+      internalID: -5196241266363071345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_74
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd9938544a763f60800000000000000
+      internalID: 8013727020908912072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_75
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c15e9057b1fd450800000000000000
+      internalID: 6115637008483556502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_76
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ec4faf382854360800000000000000
+      internalID: 7153267086510575232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_77
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb2125ba46f72d50800000000000000
+      internalID: 6712604570345876405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_78
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ef34b9b5431bb30800000000000000
+      internalID: 4301276687167127073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_79
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd62c3c063c0d0c0800000000000000
+      internalID: -4552924402902995502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_80
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78e3861bd3312250800000000000000
+      internalID: 5918068401410140285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_81
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa06d856cfe865530800000000000000
+      internalID: 3843416546693963946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_82
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053187c82ef4b3c50800000000000000
+      internalID: 6645993509553181520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_83
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050898f9b0a353650800000000000000
+      internalID: 6211935082623107152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_84
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5291ef9718eed60800000000000000
+      internalID: 7921411155545367975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_85
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7348707d3a661b940800000000000000
+      internalID: 5310138289519821879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_86
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7df47dcce175760800000000000000
+      internalID: 7446454374014900188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_87
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb0d928059700e60800000000000000
+      internalID: 7926468730867747764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_88
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120a487e6a9883090800000000000000
+      internalID: -8054536583610327007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_89
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddc5d0a001c8d430800000000000000
+      internalID: 3808005693384281554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_90
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc86e98302a10890800000000000000
+      internalID: -7493530168885605153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_91
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3a9b1d09b7add00800000000000000
+      internalID: 998246129340097486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_92
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c349167e8071710800000000000000
+      internalID: 1663808377204259930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_93
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b16bd89b38e43760800000000000000
+      internalID: 7436824227360760243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_94
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b784453a842aae900800000000000000
+      internalID: 714561923753199739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_95
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b59c7357dce6700800000000000000
+      internalID: 535591309034478436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_96
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522daa28538b7d120800000000000000
+      internalID: 2438620263209423397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_97
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb59a7f7e0e7e4d0800000000000000
+      internalID: -3105266131151528984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_98
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c406e2e59cf1530800000000000000
+      internalID: 3827999614630382663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_99
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57b2e5e1c304b2c0800000000000000
+      internalID: -4416901203223201957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_100
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3bed0903dec90a40800000000000000
+      internalID: 5335022639382391610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_101
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2c71f071064b4d0800000000000000
+      internalID: -3119762989707181349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_102
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b821b7b713b54e4c0800000000000000
+      internalID: -4259179079502458229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_transparent_crop1_103
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd792a6f7f744010800000000000000
+      internalID: 1172201988241849843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
