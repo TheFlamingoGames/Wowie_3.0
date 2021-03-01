@@ -7,13 +7,35 @@ public class Human : Character
 
     public override void CollisionDetected(GameObject collision)
     {
+        if (collision.name == gameObject.name) return;
+        base.CollisionDetected(collision);    
 
-        if (collision.name == "Misc") 
+        if (collision.name.Contains("Spike")) 
         {
-            Debug.Log("Misc");
-            _colliderChecker.transform.position = oldPos;
-            currentPos = oldPos;
+            Die();
+            return;
         }
-        base.CollisionDetected(collision);
+
+        ColorCode c;
+        try
+        {
+            c = collision.GetComponent<ColorCode>();
+        }
+        catch 
+        {
+            return;
+        }
+        if (collision.CompareTag("Character"))
+        {
+            if (_color.CompareColor(_color.GetColor(), c.GetColor()))
+            {
+                GameManager.instance.SetPlayerCharacter(collision);
+                Die();
+            }
+            else 
+            {
+                collision.SendMessage("Die");
+            }
+        }
     }
 }

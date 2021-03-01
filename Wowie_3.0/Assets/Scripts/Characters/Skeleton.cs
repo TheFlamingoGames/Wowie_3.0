@@ -4,14 +4,45 @@ using UnityEngine;
 
 public class Skeleton : Character
 {
-    int zigzag = 1;
+    int zigzag = 0;
     protected override void PredeterminedMovement()
     {
-        if ((Vector2)transform.position == currentPos)
+        if ((Vector2)transform.position == _currentPos)
         {
             zigzag *= -1;
             Vector2 newPos = new Vector2(zigzag, 0);
-            currentPos += newPos;
+            _currentPos += newPos;
         }
+    }
+
+    public override void CollisionDetected(GameObject collision)
+    {
+        if (collision.name == gameObject.name) return;
+        Debug.Log(collision.name);
+        base.CollisionDetected(collision);
+
+        ColorCode c;
+        try
+        {
+            c = collision.GetComponent<ColorCode>();
+        }
+        catch
+        {
+            return;
+        }
+
+        if (collision.CompareTag("Character"))
+        {
+            if (_color.CompareColor(_color.GetColor(), c.GetColor()))
+            {
+                GameManager.instance.SetPlayerCharacter(collision);
+                Die();
+            }
+            else
+            {
+                collision.SendMessage("Die");
+            }
+        }
+
     }
 }

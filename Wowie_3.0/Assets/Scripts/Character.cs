@@ -8,15 +8,16 @@ public class Character : MonoBehaviour
     [SerializeField] protected float tileSize = 1;
 
     protected GameObject _colliderChecker;
-    protected Vector2 currentPos;
-    protected Vector2 oldPos;
+    protected Vector2 _currentPos;
+    protected Vector2 _oldPos;
 
+    protected ColorCode _color;
 
     void Start()
     {
-        currentPos = transform.position;
+        _currentPos = transform.position;
         _colliderChecker = GameObject.Find("ColliderCheck");
-        Debug.Log(_colliderChecker.name);
+        _color = gameObject.GetComponent<ColorCode>();
     }
 
 
@@ -35,11 +36,13 @@ public class Character : MonoBehaviour
 
     private void Move()
     {
-        transform.position = Vector3.Lerp(transform.position, currentPos, speed * Time.deltaTime);
+        transform.position = Vector3.Lerp(transform.position, _currentPos, speed * Time.deltaTime);
 
-        if ((Vector2)transform.position == currentPos)
+        
+
+        if ((Vector2)transform.position == _currentPos)
         {
-            oldPos = transform.position;
+            _oldPos = transform.position;
         }
     }
 
@@ -49,7 +52,7 @@ public class Character : MonoBehaviour
 
     }
 
-//Player Controlled Movement
+    //Player Controlled Movement
     protected virtual void CheckInputs()
     {
         if (transform.position != _colliderChecker.transform.position) return;
@@ -61,7 +64,7 @@ public class Character : MonoBehaviour
         else if (Input.GetKeyDown(KeyCode.RightArrow) || Input.GetKeyDown(KeyCode.D)) newPos.x += tileSize;
         _colliderChecker.transform.position = newPos;
 
-        currentPos = newPos;
+        _currentPos = newPos;
     }
 
     public void SetParentForColliderCheck()
@@ -71,17 +74,47 @@ public class Character : MonoBehaviour
 
     public virtual void CollisionDetected(GameObject collision)
     {
-        Debug.Log(collision.name);
+
+        if (collision.name.Contains("Open"))
+        {
+            Debug.Log("Open Door");
+            ColorCode c = collision.GetComponent<ColorCode>();
+            if (_color.GetColor() == c.GetColor())
+            {
+                Debug.Log("Same Color");
+                GameManager.instance.Win();
+            }
+            else
+            {
+                Debug.Log("Different Color");
+                _colliderChecker.transform.position = _oldPos;
+                _currentPos = _oldPos;
+            }
+            return;
+        }
+
+        if (collision.name.Contains("Potion"))
+        {
+            _color.SetColor(collision.GetComponent<ColorCode>().GetColor());
+            collision.SendMessage("UsePotion");
+            return;
+        }
 
         if (collision.name == "Walls")
         {
-            _colliderChecker.transform.position = oldPos;
-            currentPos = oldPos;
+            _colliderChecker.transform.position = _oldPos;
+            _currentPos = _oldPos;
+            return;
         }
     }
 
     public Vector2 GetCurrentPos() 
     {
-        return currentPos;
+        return _currentPos;
+    }
+
+    public virtual void Die() 
+    {
+        GameManager.instance.CheckPlayersDeath(gameObject);
     }
 }

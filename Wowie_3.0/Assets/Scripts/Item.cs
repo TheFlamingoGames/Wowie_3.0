@@ -4,13 +4,13 @@ using UnityEngine;
 
 public class Item : MonoBehaviour
 {
-    // Start is called before the first frame update
+    protected ColorCode _color;
+
     void Start()
     {
-        
+        _color = gameObject.GetComponent<ColorCode>();
     }
 
-    // Update is called once per frame
     void Update()
     {
         
