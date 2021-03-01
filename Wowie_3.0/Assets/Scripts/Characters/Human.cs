@@ -16,6 +16,12 @@ public class Human : Character
             return;
         }
 
+        if (collision.name.Contains("Gem"))
+        {
+            _colliderChecker.transform.position = _oldPos;
+            _currentPos = _oldPos;
+        }
+
         ColorCode c;
         try
         {

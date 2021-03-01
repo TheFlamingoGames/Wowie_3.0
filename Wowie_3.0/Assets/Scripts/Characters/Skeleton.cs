@@ -21,6 +21,12 @@ public class Skeleton : Character
         Debug.Log(collision.name);
         base.CollisionDetected(collision);
 
+        if (collision.name.Contains("Gem"))
+        {
+            _colliderChecker.transform.position = _oldPos;
+            _currentPos = _oldPos;
+        }
+
         ColorCode c;
         try
         {

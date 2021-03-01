@@ -74,19 +74,22 @@ public class Character : MonoBehaviour
 
     public virtual void CollisionDetected(GameObject collision)
     {
+        if (collision.name.Contains("Closed"))
+        {
+            _colliderChecker.transform.position = _oldPos;
+            _currentPos = _oldPos;
+            return;
+        }
 
         if (collision.name.Contains("Open"))
         {
-            Debug.Log("Open Door");
             ColorCode c = collision.GetComponent<ColorCode>();
             if (_color.GetColor() == c.GetColor())
             {
-                Debug.Log("Same Color");
                 GameManager.instance.Win();
             }
             else
             {
-                Debug.Log("Different Color");
                 _colliderChecker.transform.position = _oldPos;
                 _currentPos = _oldPos;
             }

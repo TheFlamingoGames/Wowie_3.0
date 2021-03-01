@@ -4,15 +4,16 @@ using UnityEngine;
 
 public class Crystal : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    private GameObject _parent;
+
+    public void SetParent(GameObject newParent) 
     {
-        
+        _parent = newParent;
     }
 
-    // Update is called once per frame
-    void Update()
+    public void GemDestroyed() 
     {
-        
+        _parent.SendMessage("GemDestroyed", gameObject);
+        Destroy(gameObject);
     }
 }

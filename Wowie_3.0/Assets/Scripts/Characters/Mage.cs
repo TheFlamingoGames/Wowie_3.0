@@ -2,17 +2,53 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Mage : MonoBehaviour
+public class Mage : Character
 {
-    // Start is called before the first frame update
-    void Start()
+    public override void CollisionDetected(GameObject collision)
     {
-        
-    }
+        if (collision.name == gameObject.name) return;
+        base.CollisionDetected(collision);
 
-    // Update is called once per frame
-    void Update()
-    {
-        
+        if (collision.name.Contains("Spike"))
+        {
+            Die();
+            return;
+        }
+
+        ColorCode c;
+        try
+        {
+            c = collision.GetComponent<ColorCode>();
+        }
+        catch
+        {
+            return;
+        }
+        if (collision.CompareTag("Character"))
+        {
+            if (_color.CompareColor(_color.GetColor(), c.GetColor()))
+            {
+                GameManager.instance.SetPlayerCharacter(collision);
+                Die();
+            }
+            else
+            {
+                collision.SendMessage("Die");
+            }
+        }
+
+        if (collision.name.Contains("Gem"))
+        {
+            if (_color.GetColor() == c.GetColor())
+            {
+                collision.SendMessage("GemDestroyed");
+            }
+            else
+            {
+                _colliderChecker.transform.position = _oldPos;
+                _currentPos = _oldPos;
+            }
+            return;
+        }
     }
 }
