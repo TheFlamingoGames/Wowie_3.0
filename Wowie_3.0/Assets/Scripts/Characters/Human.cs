@@ -43,5 +43,20 @@ public class Human : Character
                 collision.SendMessage("Die");
             }
         }
+        if (collision.name.Contains("Chest"))
+        {
+            if (_color.GetColor() == c.GetColor())
+            {
+                collision.SendMessage("OpenChest");
+                _colliderChecker.transform.position = _oldPos;
+                _currentPos = _oldPos;
+            }
+            else
+            {
+                _colliderChecker.transform.position = _oldPos;
+                _currentPos = _oldPos;
+            }
+            return;
+        }
     }
 }

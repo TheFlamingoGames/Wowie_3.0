@@ -1,11 +1,12 @@
 ﻿using UnityEngine;
 using Cinemachine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour
 {
-    [SerializeField] CinemachineVirtualCamera vc;
-
+    [SerializeField] CinemachineVirtualCamera virtualCamera;
+    [SerializeField] GameObject deathButton;
 
     public GameObject player;
     public static GameManager instance;
@@ -22,7 +23,9 @@ public class GameManager : MonoBehaviour
             Destroy(this);
         }
         player = GameObject.Find("Player");
-        vc = GameObject.Find("CM vcam1").GetComponent<CinemachineVirtualCamera>(); ;
+        virtualCamera = GameObject.Find("CM vcam1").GetComponent<CinemachineVirtualCamera>(); ;
+        deathButton = GameObject.Find("DeathButton");
+            
     }
 
     private void Start()
@@ -35,7 +38,7 @@ public class GameManager : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.R)) 
         {
-            ReloadSceene();
+            ReloadScene();
         }
     }
 
@@ -46,9 +49,11 @@ public class GameManager : MonoBehaviour
 
     public void CheckPlayersDeath(GameObject dieded) 
     {
+        FindObjectOfType<AudioManager>().Play("PlayerDeath");
         if (dieded.name == player.name)
         {
-            ReloadSceene();
+            Destroy(dieded);
+            deathButton.GetComponent<Animator>().SetTrigger("Show");
         }
         else 
         {
@@ -56,7 +61,7 @@ public class GameManager : MonoBehaviour
         }
     }
 
-    private void ReloadSceene() 
+    public void ReloadScene() 
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
@@ -64,13 +69,13 @@ public class GameManager : MonoBehaviour
     public void SetPlayerCharacter(GameObject newPlayer) 
     {
         player = newPlayer;
-        vc.Follow = player.transform;
+        virtualCamera.Follow = player.transform;
         player.SendMessage("SetParentForColliderCheck");
     }
 
     public void Win() 
     {
         Debug.Log("Win");
-        ReloadSceene();
+        ReloadScene();
     }
 }

@@ -27,6 +27,12 @@ public class Skeleton : Character
             _currentPos = _oldPos;
         }
 
+        if (collision.name.Contains("Chest"))
+        {
+            _colliderChecker.transform.position = _oldPos;
+            _currentPos = _oldPos;
+        }
+
         ColorCode c;
         try
         {

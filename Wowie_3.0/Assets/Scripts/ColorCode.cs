@@ -20,6 +20,11 @@ public class ColorCode : MonoBehaviour
         _spriteRendered = gameObject.GetComponent<SpriteRenderer>();
     }
 
+    public void InitializeSpriteRendererIfYouForgotAboutItYouFool()
+    {
+        _spriteRendered = gameObject.GetComponent<SpriteRenderer>();
+    }
+
     public void SetColor(Colors c) 
     {
         _color = c;
