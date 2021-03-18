@@ -47,6 +47,7 @@ public class Human : Character
         {
             if (_color.GetColor() == c.GetColor())
             {
+                FindObjectOfType<AudioManager>().Play("Poke");
                 collision.SendMessage("OpenChest");
                 _colliderChecker.transform.position = _oldPos;
                 _currentPos = _oldPos;

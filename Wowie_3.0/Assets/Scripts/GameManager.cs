@@ -22,6 +22,7 @@ public class GameManager : MonoBehaviour
         {
             Destroy(this);
         }
+
         player = GameObject.Find("Player");
         virtualCamera = GameObject.Find("CM vcam1").GetComponent<CinemachineVirtualCamera>(); ;
         deathButton = GameObject.Find("DeathButton");
@@ -49,14 +50,18 @@ public class GameManager : MonoBehaviour
 
     public void CheckPlayersDeath(GameObject dieded) 
     {
-        FindObjectOfType<AudioManager>().Play("PlayerDeath");
+        
         if (dieded.name == player.name)
         {
+            AudioManager.instance.Play("PlayerDeath");
+            //FindObjectOfType<AudioManager>().Play("PlayerDeath");
             Destroy(dieded);
             deathButton.GetComponent<Animator>().SetTrigger("Show");
         }
         else 
         {
+            AudioManager.instance.Play("CharacterDeath");
+            //FindObjectOfType<AudioManager>().Play("CharacterDeath");
             Destroy(dieded);
         }
     }
@@ -75,7 +80,20 @@ public class GameManager : MonoBehaviour
 
     public void Win() 
     {
-        Debug.Log("Win");
-        ReloadScene();
+        NextScene();
+    }
+
+    public void NextScene()
+    {
+        int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
+        currentSceneIndex++;
+        if (currentSceneIndex == SceneManager.sceneCountInBuildSettings)
+        {
+            SceneManager.LoadScene(0);
+        }
+        else
+        {
+            SceneManager.LoadScene(currentSceneIndex);
+        }
     }
 }

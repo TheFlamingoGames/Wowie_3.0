@@ -6,6 +6,7 @@ public class Potion : Item
 {
     public void UsePotion() 
     {
+        FindObjectOfType<AudioManager>().Play("Poke");
         Destroy(gameObject);
     }
 }

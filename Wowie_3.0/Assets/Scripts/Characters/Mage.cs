@@ -47,7 +47,10 @@ public class Mage : Character
         {
             if (_color.GetColor() == c.GetColor())
             {
+                FindObjectOfType<AudioManager>().Play("Poke");
                 collision.SendMessage("GemDestroyed");
+                _colliderChecker.transform.position = _oldPos;
+                _currentPos = _oldPos;
             }
             else
             {

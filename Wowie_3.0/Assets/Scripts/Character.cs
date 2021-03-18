@@ -6,6 +6,7 @@ public class Character : MonoBehaviour
 {
     [SerializeField] protected float speed = 5f;
     [SerializeField] protected float tileSize = 1;
+    [SerializeField] protected float movementRadius = 0.5f;
 
     protected GameObject _colliderChecker;
     protected Vector2 _currentPos;
@@ -23,6 +24,8 @@ public class Character : MonoBehaviour
 
     void Update()
     {
+        if (GameManager.instance.player == null) return;
+
         if (GameManager.instance.player.name != gameObject.name)
         {
             PredeterminedMovement();
@@ -55,15 +58,18 @@ public class Character : MonoBehaviour
     //Player Controlled Movement
     protected virtual void CheckInputs()
     {
-        if (transform.position != _colliderChecker.transform.position) return;
+        //if (transform.position != _colliderChecker.transform.position) return;
+
+        if (Vector2.Distance(transform.position, _colliderChecker.transform.position) > movementRadius) return;
 
         Vector2 newPos = _colliderChecker.transform.position;
-        if (Input.GetKeyDown(KeyCode.UpArrow) || Input.GetKeyDown(KeyCode.W)) newPos.y += tileSize;
-        else if (Input.GetKeyDown(KeyCode.DownArrow) || Input.GetKeyDown(KeyCode.S)) newPos.y -= tileSize;
-        else if (Input.GetKeyDown(KeyCode.LeftArrow) || Input.GetKeyDown(KeyCode.A)) newPos.x -= tileSize;
-        else if (Input.GetKeyDown(KeyCode.RightArrow) || Input.GetKeyDown(KeyCode.D)) newPos.x += tileSize;
+        if (Input.GetKeyDown(KeyCode.UpArrow) || Input.GetKeyDown(KeyCode.W)) { newPos.y += tileSize; }
+        else if (Input.GetKeyDown(KeyCode.DownArrow) || Input.GetKeyDown(KeyCode.S)) { newPos.y -= tileSize; }
+        else if (Input.GetKeyDown(KeyCode.LeftArrow) || Input.GetKeyDown(KeyCode.A)) { newPos.x -= tileSize; }
+        else if (Input.GetKeyDown(KeyCode.RightArrow) || Input.GetKeyDown(KeyCode.D)) { newPos.x += tileSize; }
         _colliderChecker.transform.position = newPos;
 
+        _oldPos = _currentPos;
         _currentPos = newPos;
     }
 
